@@ -1,0 +1,3 @@
+What is the airspeed velocity of an unladen swallow?/African or European?
+What does the keyword implements mean in Java?/Allows the class to use an interface and its methods
+/
